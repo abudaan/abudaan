@@ -6,6 +6,7 @@ Fortunately we can use the [Jazz plugin][1] in those browsers, and if you use Ch
 
 The WebMIDIAPIShim is called a shim and a polyfill interchangeably. Actually it is both a shim and a polyfill; it is a shim because it intercepts the API calls to the Jazz plugin and converts them to WebMIDI API calls, and it is a polyfill because it adds modern functionality to 'legacy' browsers. See also this [article][3] on Stackoverflow.
 
+See some examples of what you can do with the WebMIDI API at the [heartbeat](http://abudaan.github.io/heartbeat/examples/#!midi_in_&_out/webmidi_create_midi_events) site.
 
  [1]: http://jazz-soft.net/
  [2]: https://github.com/cwilso/WebMIDIAPIShim

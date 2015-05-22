@@ -1,5 +1,6 @@
 
-**[ Chrome 43 supports MIDI natively, see this [post][1] ]**
+**[ Deprecated: Chrome 43 supports MIDI natively, see this [post][1] ]**
+
 
 [1) Introduction][4]
 [2) Quick start guide][5]
